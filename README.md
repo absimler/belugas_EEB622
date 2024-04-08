@@ -7,4 +7,4 @@ https://drive.google.com/drive/folders/18qhex6PZW8Zwg0AgD6dD4xJgzg1MwOow
 
 Happy analyzing!!
 
-![Image: Flickr]<belug.jpeg>
+![Image: Flickr](belug.jpeg)
